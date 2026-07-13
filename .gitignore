@@ -11,3 +11,13 @@ build/
 
 # OS
 .DS_Store
+
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+build/
+.env.local
